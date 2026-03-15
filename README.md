@@ -16,7 +16,7 @@ Both goals are served by the same portfolio. Work done for one automatically cou
 |---|---|---|
 | [Offensive-Security-Portfolio](https://github.com/jaypatel-sec/Offensive-Security-Portfolio) | Main landing page — links to everything | 🔄 Active |
 | [Active-Directory-Attack-Lab](https://github.com/jaypatel-sec/Active-Directory-Attack-Lab) | 9-attack AD kill chain with full detection coverage | 🔄 Active |
-| [CPTS-Academy-Notes](https://github.com/jaypatel-sec/CPTS-Academy-Notes) | HTB Academy CPTS — all 28 modules documented | 🔄 Active |
+| [HTB-Academy-CPTS-Path](https://github.com/jaypatel-sec/HTB-Academy-CPTS-Path) | HTB Academy CPTS — all 28 modules documented | 🔄 Active |
 | [HTB-TryHackMe-Writeups](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups) | Retired HTB machines and TryHackMe rooms | 🔄 Active |
 | [SOC-Detection-Lab](https://github.com/jaypatel-sec/SOC-Detection-Lab) | LetsDefend investigations, SPL/KQL rules, threat hunts | 🔄 Active |
 | [Custom-Tools](https://github.com/jaypatel-sec/Custom-Tools) | 10 Python tools — 5 offensive, 5 SOC automation | 🔄 Active |
