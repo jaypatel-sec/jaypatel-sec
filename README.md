@@ -2,11 +2,7 @@
 
 I'm building a dual offensive and defensive cybersecurity portfolio across 10 months — March 2026 to January 2027.
 
-**Goal 1 —** Alan Paller Cybersecurity Scholarship at SANS Technology Institute | Application: January 15, 2027 | Fully funded Bachelor's + 9 GIAC certifications
-
-**Goal 2 —** SOC Analyst Tier-1/2 role in India | Target: Month 6–7 (September–October 2026)
-
-Both goals are served by the same portfolio. Work done for one automatically counts toward the other.
+**Goal:** Penetration Tester role in India | Target: January 2027
 
 ---
 
@@ -19,7 +15,7 @@ Both goals are served by the same portfolio. Work done for one automatically cou
 | [HTB-Academy-CPTS-Path](https://github.com/jaypatel-sec/HTB-Academy-CPTS-Path) | HTB Academy CPTS — all 28 modules documented | 🔄 Active |
 | [HTB-TryHackMe-Writeups](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups) | Retired HTB machines and TryHackMe rooms | 🔄 Active |
 | [SOC-Detection-Lab](https://github.com/jaypatel-sec/SOC-Detection-Lab) | LetsDefend investigations, SPL/KQL rules, threat hunts | 🔄 Active |
-| [Custom-Tools](https://github.com/jaypatel-sec/Custom-Tools) | 10 Python tools — 5 offensive, 5 SOC automation | 🔄 Active |
+| [Custom-Tools](https://github.com/jaypatel-sec/Custom-Tools) | 10 Python tools — 5 offensive, 5 defensive automation | 🔄 Active |
 | [CTF-Writeups](https://github.com/jaypatel-sec/CTF-Writeups) | CTFtime competitions, SANS Holiday Hack, THM Advent of Cyber | 🔄 Active |
 | [MITRE-ATTnCK-Coverage](https://github.com/jaypatel-sec/MITRE-ATTnCK-Coverage) | Combined MITRE ATT&CK Navigator coverage layer | 🔄 Active |
 | [Pentest-Reports](https://github.com/jaypatel-sec/Pentest-Reports) | Professional penetration testing reports | ⏳ Month 8–9 |
