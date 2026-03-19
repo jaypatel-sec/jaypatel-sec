@@ -30,7 +30,7 @@ Both goals are served by the same portfolio. Work done for one automatically cou
 
 | Certification | Target Date | Status |
 |---|---|---|
-| eJPT | May 2026 | Upcoming |
+| eJPT | May 2026 | 🔄 In Progress |
 | Security+ | June 2026 | Upcoming |
 | Splunk Power User | August 2026 | Upcoming |
 | SC-200 | September 2026 | Upcoming |
