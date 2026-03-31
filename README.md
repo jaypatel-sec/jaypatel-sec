@@ -1,7 +1,5 @@
 # Hey, I'm Jay Patel
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaypatel-sec&show_icons=true&theme=dark&hide_border=true)
-
 I'm an aspiring penetration tester building a focused offensive security portfolio — March 2026 onward.
 
 **Goal:** Penetration Tester role in India | Target: January 2027
