@@ -1,5 +1,7 @@
 # Hey, I'm Jay Patel
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaypatel-sec&show_icons=true&theme=dark&hide_border=true)
+
 I'm an aspiring penetration tester building a focused offensive security portfolio — March 2026 onward.
 
 **Goal:** Penetration Tester role in India | Target: January 2027
@@ -23,8 +25,11 @@ I'm an aspiring penetration tester building a focused offensive security portfol
 | Certification | Target Date | Status |
 |---|---|---|
 | eJPT | May 2026 | 🔄 In Progress |
-| HTB CPTS | December 2026 | Upcoming |
-| OSCP | 2027 | Upcoming |
+| HTB CPTS | December 2026 | ⏳ Upcoming |
+| OSCP | 2027 | ⏳ Upcoming |
+| HTB CWEE | 2027 | ⏳ Upcoming |
+| BSCP | 2027–2028 | ⏳ Upcoming |
+| OSWE | 2028 | ⏳ Upcoming |
 
 ---
 
