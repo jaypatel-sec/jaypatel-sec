@@ -1,6 +1,6 @@
 # Hey, I'm Jay Patel
 
-I'm an aspiring penetration tester building a focused offensive security portfolio — March 2026 onward.
+I'm a penetration tester building a focused offensive security portfolio — March 2026 onward.
 
 **Goal:** Penetration Tester role in India | Target: January 2027
 
