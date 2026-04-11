@@ -1,8 +1,9 @@
-# Hey, I'm Jay Patel
+# Jay Patel — Penetration Tester
 
-I'm a penetration tester building a focused offensive security portfolio — March 2026 onward.
+Full-time offensive security. Real labs, real output, no shortcuts.
+Working the eJPT → CPTS → OSCP path with documented proof at every step.
 
-**Goal:** Penetration Tester role in India | Target: January 2027
+🇮🇳 Based in India  |  🎯 Penetration Tester role — January 2027 target
 
 ---
 
