@@ -26,7 +26,7 @@ Working the eJPT → CPTS → OSCP path with documented proof at every step.
 | eJPT | May 2026 | 🔄 In Progress |
 | HTB CPTS | December 2026 | ⏳ Upcoming |
 | OSCP | 2027 | ⏳ Upcoming |
-| HTB CWEE | 2027 | ⏳ Upcoming |
+| HTB CWES | 2027 | ⏳ Upcoming |
 | BSCP | 2027–2028 | ⏳ Upcoming |
 | OSWE | 2028 | ⏳ Upcoming |
 
