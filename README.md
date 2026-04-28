@@ -21,14 +21,14 @@ Working the eJPT → CPTS → OSCP path with documented proof at every step.
 
 ## Certification Roadmap
 
-| Certification | Target Date | Status |
-|---|---|---|
-| eJPT | May 2026 | 🔄 In Progress |
-| HTB CPTS | December 2026 | ⏳ Upcoming |
-| OSCP | 2027 | ⏳ Upcoming |
-| HTB CWES | 2027 | ⏳ Upcoming |
-| BSCP | 2027–2028 | ⏳ Upcoming |
-| OSWE | 2028 | ⏳ Upcoming |
+| Certification | Status |
+|---|---|
+| eJPT | 🔄 In Progress |
+| HTB CPTS | ⏳ Upcoming |
+| OSCP | ⏳ Upcoming |
+| HTB CWES | ⏳ Upcoming |
+| CRTO | ⏳ Upcoming |
+| OSWE | ⏳ Upcoming |
 
 ---
 
