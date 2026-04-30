@@ -12,7 +12,7 @@ Real labs, real output, real methodology — written to the standard of an actua
 | Area | Count |
 |---|---|
 | TryHackMe Rooms (documented) | 8 |
-| HTB Machines (documented) | 1 |
+| HTB Machines (documented) | 2 |
 | CPTS Modules Completed | 10 / 28 |
 | AD Attack Chain Steps Documented | 0 / 9 |
 
@@ -22,10 +22,10 @@ Real labs, real output, real methodology — written to the standard of an actua
 
 | Room / Machine | Platform | Difficulty | Key Technique |
 |---|---|---|---|
+| [Underpass](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/Underpass.md) | HackTheBox | Easy | UDP scan → SNMP default community string → daloRADIUS default creds → MD5 crack → mosh-server sudo privesc |
 | [Anonymous](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/TryHackMe/Rooms/Anonymous.md) | TryHackMe | Medium | FTP cron injection → LXD group privesc |
 | [UltraTech](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/TryHackMe/Rooms/UltraTech.md) | TryHackMe | Medium | OS command injection → Docker group privesc |
 | [CMesS](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/TryHackMe/Rooms/CMesS.md) | TryHackMe | Medium | VHost fuzzing → Gila CMS RCE → tar wildcard injection |
-| [Kenobi](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/TryHackMe/Rooms/Kenobi.md) | TryHackMe | Easy | ProFTPD mod_copy CVE-2015-3306 → SUID PATH hijack |
 | [Postman](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/Postman.md) | HackTheBox | Easy | Redis unauthenticated file write → SSH key injection → Webmin RCE |
 
 → [Full writeup list](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups)
