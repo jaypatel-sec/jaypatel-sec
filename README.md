@@ -12,7 +12,7 @@ Real labs, real output, real methodology — written to the standard of an actua
 | Area | Count |
 |---|---|
 | TryHackMe Rooms (documented) | 8 |
-| HTB Machines (documented) | 3 |
+| HTB Machines (documented) | 4 |
 | CPTS Modules Completed | 11 / 28 |
 | AD Attack Chain Steps Documented | 0 / 9 |
 
@@ -22,11 +22,11 @@ Real labs, real output, real methodology — written to the standard of an actua
 
 | Room / Machine | Platform | Difficulty | Key Technique |
 |---|---|---|---|
+| [Legacy](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Windows/Legacy.md) | HackTheBox | Easy | MS08-067 (CVE-2008-4250) — pre-auth SMB RCE → NT AUTHORITY\SYSTEM |
 | [Valentine](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/Valentine.md) | HackTheBox | Easy | Heartbleed (CVE-2014-0160) memory leak → SSH key decryption → tmux root socket |
 | [Underpass](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/Underpass.md) | HackTheBox | Easy | UDP scan → SNMP default community string → daloRADIUS default creds → MD5 crack → mosh-server sudo privesc |
 | [Anonymous](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/TryHackMe/Rooms/Anonymous.md) | TryHackMe | Medium | FTP cron injection → LXD group privesc |
 | [UltraTech](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/TryHackMe/Rooms/UltraTech.md) | TryHackMe | Medium | OS command injection → Docker group privesc |
-| [CMesS](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/TryHackMe/Rooms/CMesS.md) | TryHackMe | Medium | VHost fuzzing → Gila CMS RCE → tar wildcard injection |
 
 → [Full writeup list](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups)
 
