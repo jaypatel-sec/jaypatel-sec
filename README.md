@@ -12,7 +12,7 @@ Real labs, real output, real methodology — written to the standard of an actua
 | Area | Count |
 |---|---|
 | TryHackMe Rooms (documented) | 8 |
-| HTB Machines (documented) | 4 |
+| HTB Machines (documented) | 5 |
 | CPTS Modules Completed | 11 / 28 |
 | AD Attack Chain Steps Documented | 0 / 9 |
 
@@ -22,9 +22,9 @@ Real labs, real output, real methodology — written to the standard of an actua
 
 | Room / Machine | Platform | Difficulty | Key Technique |
 |---|---|---|---|
+| [Blue](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Windows/Blue.md) | HackTheBox | Easy | MS17-010 / EternalBlue (CVE-2017-0143) — pre-auth SMB kernel pool corruption → NT AUTHORITY\SYSTEM |
 | [Legacy](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Windows/Legacy.md) | HackTheBox | Easy | MS08-067 (CVE-2008-4250) — pre-auth SMB RCE → NT AUTHORITY\SYSTEM |
 | [Valentine](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/Valentine.md) | HackTheBox | Easy | Heartbleed (CVE-2014-0160) memory leak → SSH key decryption → tmux root socket |
-| [Underpass](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/Underpass.md) | HackTheBox | Easy | UDP scan → SNMP default community string → daloRADIUS default creds → MD5 crack → mosh-server sudo privesc |
 | [Anonymous](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/TryHackMe/Rooms/Anonymous.md) | TryHackMe | Medium | FTP cron injection → LXD group privesc |
 | [UltraTech](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/TryHackMe/Rooms/UltraTech.md) | TryHackMe | Medium | OS command injection → Docker group privesc |
 
