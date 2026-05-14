@@ -12,7 +12,7 @@ Real labs, real output, real methodology — written to the standard of an actua
 | Area | Count |
 |---|---|
 | TryHackMe Rooms (documented) | 8 |
-| HTB Machines (documented) | 8 |
+| HTB Machines (documented) | 9 |
 | CPTS Modules Completed | 11 / 28 |
 | AD Attack Chain Steps Documented | 0 / 9 |
 
@@ -22,11 +22,11 @@ Real labs, real output, real methodology — written to the standard of an actua
 
 | Room / Machine | Platform | Difficulty | Key Technique |
 |---|---|---|---|
+| [Jerry](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Windows/Jerry.md) | HackTheBox | Easy | Default Tomcat credentials (tomcat:s3cret) → WAR reverse shell deploy → NT AUTHORITY\SYSTEM |
 | [Codify](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/Codify.md) | HackTheBox | Easy | vm2 CVE-2023-30547 sandbox escape → SQLite bcrypt crack → bash [[ ]] pattern match bypass + pspy root cred sniff |
 | [Bashed](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/Bashed.md) | HackTheBox | Easy | phpbash webshell → sudo lateral move to scriptmanager → root cron job overwrites writable test.py |
 | [Lame](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/Lame.md) | HackTheBox | Easy | distcc CVE-2004-2687 unauthenticated RCE → SUID nmap --interactive GTFOBins shell escape |
 | [Blue](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Windows/Blue.md) | HackTheBox | Easy | MS17-010 / EternalBlue (CVE-2017-0143) — pre-auth SMB kernel pool corruption → NT AUTHORITY\SYSTEM |
-| [Legacy](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Windows/Legacy.md) | HackTheBox | Easy | MS08-067 (CVE-2008-4250) — pre-auth SMB RCE → NT AUTHORITY\SYSTEM |
 
 → [Full writeup list](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups)
 
