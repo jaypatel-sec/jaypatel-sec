@@ -12,7 +12,7 @@ Real labs, real output, real methodology — written to the standard of an actua
 | Area | Count |
 |---|---|
 | TryHackMe Rooms (documented) | 9 |
-| HTB Machines (documented) | 12 |
+| HTB Machines (documented) | 13 |
 | CPTS Modules Completed | 11 / 28 |
 | AD Attack Chain Steps Documented | 0 / 9 |
 
@@ -22,11 +22,11 @@ Real labs, real output, real methodology — written to the standard of an actua
 
 | Room / Machine | Platform | Difficulty | Key Technique |
 |---|---|---|---|
+| [SolidState](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/SolidState.md) | HackTheBox | Medium | Apache James 2.3.2 default creds (root:root) → POP3 inbox harvest → SSH as mindy → rbash escape (ssh -t sh) → PwnKit CVE-2021-4034 |
 | [Irked](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/Irked.md) | HackTheBox | Easy | UnrealIRCd 3.2.8.1 backdoor CVE-2010-2075 (echo + netcat) → steghide hidden SSH creds → PwnKit CVE-2021-4034 (32-bit static compile) |
 | [TomGhost](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/TryHackMe/Rooms/TomGhost.md) | TryHackMe | Easy | GhostCat CVE-2020-1938 AJP file read → web.xml credentials → SSH → GPG crack → sudo zip GTFOBins root |
 | [Knife](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/Knife.md) | HackTheBox | Easy | PHP 8.1.0-dev backdoor CVE-2021-39165 (User-Agentt RCE) → james reverse shell → sudo knife GTFOBins root |
 | [Shocker](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/Shocker.md) | HackTheBox | Easy | Shellshock CVE-2014-6271 via CGI User-Agent → shelly reverse shell → sudo perl GTFOBins root |
-| [Jerry](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Windows/Jerry.md) | HackTheBox | Easy | Default Tomcat credentials (tomcat:s3cret) → WAR reverse shell deploy → NT AUTHORITY\SYSTEM |
 
 → [Full writeup list](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups)
 
