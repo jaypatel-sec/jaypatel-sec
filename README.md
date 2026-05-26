@@ -12,7 +12,7 @@ Real labs, real output, real methodology — written to the standard of an actua
 | Area | Count |
 |---|---|
 | TryHackMe Rooms (documented) | 9 |
-| HTB Machines (documented) | 15 |
+| HTB Machines (documented) | 16 |
 | CPTS Modules Completed | 11 / 28 |
 | AD Attack Chain Steps Documented | 0 / 9 |
 
@@ -22,11 +22,11 @@ Real labs, real output, real methodology — written to the standard of an actua
 
 | Room / Machine | Platform | Difficulty | Key Technique |
 |---|---|---|---|
+| [Devel](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Windows/Devel.md) | HackTheBox | Easy | Anonymous FTP write to IIS webroot → ASPX reverse shell (msfvenom) → MS11-046 Chimichurri (afd.sys) → NT AUTHORITY\SYSTEM |
 | [Nineveh](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/Nineveh.md) | HackTheBox | Medium | phpLiteAdmin SQLite injection + LFI RCE → RSA key appended to PNG → port knocking → SSH as amrois → chkrootkit 0.49 /tmp/update cron LPE |
 | [Traverxec](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/Traverxec.md) | HackTheBox | Easy | Nostromo 1.9.6 CVE-2019-16278 path traversal RCE → nhttpd.conf homedirs → backup SSH key → ssh2john passphrase crack → sudo journalctl pager escape (stty rows 2) |
 | [SolidState](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/SolidState.md) | HackTheBox | Medium | Apache James 2.3.2 default creds (root:root) → POP3 inbox harvest → SSH as mindy → rbash escape (ssh -t sh) → PwnKit CVE-2021-4034 |
 | [Irked](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/Irked.md) | HackTheBox | Easy | UnrealIRCd 3.2.8.1 backdoor CVE-2010-2075 (echo + netcat) → steghide hidden SSH creds → PwnKit CVE-2021-4034 (32-bit static compile) |
-| [TomGhost](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/TryHackMe/Rooms/TomGhost.md) | TryHackMe | Easy | GhostCat CVE-2020-1938 AJP file read → web.xml credentials → SSH → GPG crack → sudo zip GTFOBins root |
 
 → [Full writeup list](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups)
 
