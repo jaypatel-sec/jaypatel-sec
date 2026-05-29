@@ -3,7 +3,7 @@
 Building a hands-on penetration testing portfolio with documented proof at every step.
 Real labs, real output, real methodology — written to the standard of an actual engagement.
 
-🇮🇳 India &nbsp;|&nbsp; 🎯 Penetration Tester — January 2027 &nbsp;|&nbsp; eJPT → CPTS → OSCP
+🇮🇳 India | 🎯 Penetration Tester — January 2027 | eJPT → CPTS → OSCP
 
 ---
 
@@ -12,7 +12,7 @@ Real labs, real output, real methodology — written to the standard of an actua
 | Area | Count |
 |---|---|
 | TryHackMe Rooms (documented) | 9 |
-| HTB Machines (documented) | 18 |
+| HTB Machines (documented) | 19 |
 | CPTS Modules Completed | 11 / 28 |
 | AD Attack Chain Steps Documented | 0 / 9 |
 
@@ -22,11 +22,11 @@ Real labs, real output, real methodology — written to the standard of an actua
 
 | Room / Machine | Platform | Difficulty | Key Technique |
 |---|---|---|---|
+| [Jeeves](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Windows/Jeeves.md) | HackTheBox | Medium | Jenkins Groovy Script Console unauthenticated RCE → web_delivery Meterpreter → SeImpersonatePrivilege → MS16-075 NBNS reflection → SYSTEM token → root flag in NTFS ADS |
 | [SecNotes](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Windows/SecNotes.md) | HackTheBox | Medium | Second-Order SQLi (registration form → notes leak tyler creds) → SMB write to IIS webroot → nc.exe + PHP revshell → wsl.exe Linux root → bash_history Administrator creds |
 | [Chatterbox](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Windows/Chatterbox.md) | HackTheBox | Easy | AChat BOF (CVE-2015-1578) → msfvenom x86/unicode_mixed shellcode → Registry Winlogon DefaultPassword → Plink reverse SSH tunnel → winexe Administrator shell |
 | [Devel](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Windows/Devel.md) | HackTheBox | Easy | Anonymous FTP write to IIS webroot → ASPX reverse shell (msfvenom) → MS11-046 Chimichurri (afd.sys) → NT AUTHORITY\SYSTEM |
 | [Nineveh](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/Nineveh.md) | HackTheBox | Medium | phpLiteAdmin SQLite injection + LFI RCE → RSA key appended to PNG → port knocking → SSH as amrois → chkrootkit 0.49 /tmp/update cron LPE |
-| [Traverxec](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/Traverxec.md) | HackTheBox | Easy | Nostromo 1.9.6 CVE-2019-16278 path traversal RCE → nhttpd.conf homedirs → backup SSH key → ssh2john passphrase crack → sudo journalctl pager escape (stty rows 2) |
 
 → [Full writeup list](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups)
 
