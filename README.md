@@ -11,7 +11,7 @@ Real labs, real output, real methodology — written to the standard of an actua
 
 | Area | Count |
 |---|---|
-| TryHackMe Rooms (documented) | 10 |
+| TryHackMe Rooms (documented) | 11 |
 | HTB Machines (documented) | 22 |
 | CPTS Modules Completed | 11 / 28 |
 | AD Attack Chain Steps Documented | 0 / 9 |
@@ -22,11 +22,11 @@ Real labs, real output, real methodology — written to the standard of an actua
 
 | Room / Machine | Platform | Difficulty | Key Technique |
 |---|---|---|---|
+| [Alfred](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/TryHackMe/Rooms/Alfred.md) | TryHackMe | Easy | Default credentials (admin:admin) → Jenkins Groovy Script Console RCE → Meterpreter → process migration to SYSTEM svchost.exe → Incognito token impersonation |
 | [Bastard](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Windows/Bastard.md) | HackTheBox | Medium | Drupal 7.54 CVE-2018-7600 (Drupalgeddon2) form cache poisoning → RCE as iusr → SeImpersonatePrivilege → Juicy Potato SYSTEM |
 | [Arctic](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Windows/Arctic.md) | HackTheBox | Easy | ColdFusion 8.0.1 FCKeditor CVE-2009-2265 arbitrary file upload → JSP web shell → reverse shell as tolis → SeImpersonatePrivilege → Juicy Potato SYSTEM |
 | [Steel Mountain](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/TryHackMe/Rooms/Steel-Mountain.md) | TryHackMe | Medium | Rejetto HFS 2.3 CVE-2014-6287 (39161.py) → reverse shell as bill → PowerUp.ps1 unquoted service path (AdvancedSystemCareService9) → sc restart → SYSTEM |
 | [Access](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Windows/Access.md) | HackTheBox | Easy | Anonymous FTP → backup.mdb credential extraction (mdb-tools) → Access Control.pst email (readpst) → Telnet as security → cmdkey cached Administrator credential → runas /savecred |
-| [Jeeves](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Windows/Jeeves.md) | HackTheBox | Medium | Jenkins Groovy Script Console unauthenticated RCE → web_delivery Meterpreter → SeImpersonatePrivilege → MS16-075 NBNS reflection → SYSTEM token → root flag in NTFS ADS |
 
 → [Full writeup list](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups)
 
