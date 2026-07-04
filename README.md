@@ -3,7 +3,7 @@
 Building a hands-on penetration testing portfolio with documented proof at every step.
 Real labs, real output, real methodology — written to the standard of an actual engagement.
 
-🇮🇳 India | 🎯 Penetration Tester — January 2027 | eJPT → CPTS → OSCP
+🇮🇳 India | 🎯 Penetration Tester — January 2027 | eJPT → CPTS → OSCP → CWES → CRTO → CRTL
 
 ---
 
@@ -13,7 +13,7 @@ Real labs, real output, real methodology — written to the standard of an actua
 |---|---|
 | TryHackMe Rooms (documented) | 11 |
 | HTB Machines (documented) | 24 |
-| CPTS Modules Completed | 11 / 28 |
+| CPTS Modules Completed | 12 / 28 |
 | AD Attack Chain Steps Documented | 0 / 9 |
 
 ---
@@ -48,12 +48,12 @@ Real labs, real output, real methodology — written to the standard of an actua
 
 | Certification | Provider | Status |
 |---|---|---|
-| eJPT | INE / eLearnSecurity | 🔄 In Progress |
-| HTB CPTS | HackTheBox | ⏳ Upcoming |
+| eJPT | INE / eLearnSecurity | ✅ Completed |
+| HTB CPTS | HackTheBox | 🔄 In Progress |
 | OSCP | OffSec | ⏳ Upcoming |
 | HTB CWES | HackTheBox | ⏳ Upcoming |
 | CRTO | Zero-Point Security | ⏳ Upcoming |
-| OSWE | OffSec | ⏳ Upcoming |
+| CRTL | Zero-Point Security | ⏳ Upcoming |
 
 ---
 
@@ -61,6 +61,6 @@ Real labs, real output, real methodology — written to the standard of an actua
 
 - Network and service enumeration — full port scanning, version detection, NSE scripting
 - Exploitation — web applications, misconfigured services, CVE-based attacks
-- Privilege escalation — Linux (SUID, cron, group abuse) and Windows
+- Privilege escalation — Linux (SUID, cron, group abuse) and Windows (token abuse, service misconfigs, UAC bypass)
 - Active Directory — full kill chain from credential capture to DCSync
 - Penetration testing documentation — methodology, findings, and remediation
