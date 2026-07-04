@@ -3,7 +3,7 @@
 Building a hands-on penetration testing portfolio with documented proof at every step.
 Real labs, real output, real methodology — written to the standard of an actual engagement.
 
-🇮🇳 India | 🎯 Penetration Tester — January 2027 | eJPT → CPTS → OSCP → CWES → CRTO → CRTL
+🇮🇳 India | 🎯 Penetration Tester — January 2027 | eJPT → CPTS → OSCP → CWES → CRTO
 
 ---
 
@@ -48,12 +48,13 @@ Real labs, real output, real methodology — written to the standard of an actua
 
 | Certification | Provider | Status |
 |---|---|---|
-| eJPT | INE / eLearnSecurity | ✅ Completed |
-| HTB CPTS | HackTheBox | 🔄 In Progress |
-| OSCP | OffSec | ⏳ Upcoming |
-| HTB CWES | HackTheBox | ⏳ Upcoming |
-| CRTO | Zero-Point Security | ⏳ Upcoming |
-| CRTL | Zero-Point Security | ⏳ Upcoming |
+| INE ICCA (Certified Cloud Associate) | INE | ✅ Completed |
+| eJPT (eLearnSecurity Junior Penetration Tester) | INE / eLearnSecurity | ✅ Completed |
+| HTB CPTS (Certified Penetration Testing Specialist) | HackTheBox | 🔄 In Progress |
+| OSCP (Offensive Security Certified Professional) | OffSec | ⏳ Upcoming |
+| HTB CWES (Certified Web Exploitation Specialist) | HackTheBox | ⏳ Upcoming |
+| CRTO (Certified Red Team Operator) | Zero-Point Security | ⏳ Upcoming |
+| AZ-900 (Azure Fundamentals) | Microsoft | ⏳ Upcoming |
 
 ---
 
