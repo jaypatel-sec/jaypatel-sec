@@ -3,7 +3,7 @@
 Building a hands-on penetration testing portfolio with documented proof at every step.
 Real labs, real output, real methodology — written to the standard of an actual engagement.
 
-🇮🇳 India | 🎯 Penetration Tester — January 2027 | eJPT → CPTS → OSCP → CWES → CRTO
+🇮🇳 India | 🎯 Penetration Tester — January 2027 | eJPT → CPTS → OSCP → CWES → CPSA → CRT
 
 ---
 
@@ -13,7 +13,7 @@ Real labs, real output, real methodology — written to the standard of an actua
 |---|---|
 | TryHackMe Rooms (documented) | 11 |
 | HTB Machines (documented) | 24 |
-| CPTS Modules Completed | 12 / 28 |
+| CPTS Modules Completed | 13 / 28 |
 | AD Attack Chain Steps Documented | 0 / 9 |
 
 ---
@@ -53,7 +53,8 @@ Real labs, real output, real methodology — written to the standard of an actua
 | HTB CPTS (Certified Penetration Testing Specialist) | HackTheBox | 🔄 In Progress |
 | OSCP (Offensive Security Certified Professional) | OffSec | ⏳ Upcoming |
 | HTB CWES (Certified Web Exploitation Specialist) | HackTheBox | ⏳ Upcoming |
-| CRTO (Certified Red Team Operator) | Zero-Point Security | ⏳ Upcoming |
+| CPSA (CREST Practitioner Security Analyst) | CREST | ⏳ Upcoming |
+| CRT (CREST Registered Tester) | CREST | ⏳ Upcoming |
 | AZ-900 (Azure Fundamentals) | Microsoft | ⏳ Upcoming |
 
 ---
