@@ -13,7 +13,7 @@ Real labs, real output, real methodology — written to the standard of an actua
 |---|---|
 | TryHackMe Rooms (documented) | 11 |
 | HTB Machines (documented) | 27 |
-| CPTS Modules Completed | 14 / 28 |
+| CPTS Modules Completed | 13 / 28 |
 | AD Attack Chain Steps Documented | 0 / 9 |
 
 ---
