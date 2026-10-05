@@ -13,7 +13,7 @@ Real labs, real output, real methodology — written to the standard of an actua
 |---|---|
 | TryHackMe Rooms (documented) | 11 |
 | HTB Machines (documented) | 31 |
-| HTB Web Challenges (documented) | 3 |
+| HTB Web Challenges (documented) | 4 |
 | CPTS Modules Completed | 25 / 28 |
 | AD Attack Chain Steps Documented | 0 / 9 |
 
@@ -22,12 +22,12 @@ Real labs, real output, real methodology — written to the standard of an actua
 ## 5 Most Recent Writeups
 
 | Room / Machine | Platform | Difficulty | Key Technique |
-|---|---|---|---|
+|---|---|---|---|---|
+| [Union](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Challenges/Web/Union.md) | HackTheBox | Medium | Manual UNION SQLi → MySQL FILE read → SSH unlock + credential reuse → X-Forwarded-For command injection → www-data sudo root |
 | [Trick](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Challenges/Web/Trick.md) | HackTheBox | Easy | DNS AXFR → SQLi FILE privilege → LFI SSH key extraction → fail2ban actionban SUID bash |
 | [Tabby](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Challenges/Web/Tabby.md) | HackTheBox | Easy | LFI → Tomcat Manager credential extraction → WAR reverse shell → CVE-2021-4034 PwnKit root |
 | [Monitored](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Challenges/Web/Monitored.md) | HackTheBox | Medium | SNMP process table cred leak → Nagios XI API disabled account bypass → CVE-2023-40931 SQLi → nagiosadmin API key → check command RCE (nagios) → sudo getprofile.sh symlink → /root/.ssh/id_rsa extraction → root SSH |
 | [Inception](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/Inception.md) | HackTheBox | Hard | dompdf v0.6.0 LFI (EDB-33004) → php://filter file read → Apache config enumeration → WebDAV md5crypt crack (babygurl69) → PHP webshell upload → wp-config DB cred → Squid proxy SSH pivot (cobb) → sudo su (container root) → static nmap → FTP anon crontab read → TFTP APT Pre-Invoke RCE → host root |
-| [Analytics](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Machines/Linux/Analytics.md) | HackTheBox | Easy | CVE-2023-38646 Metabase Pre-Auth RCE via setup-token abuse → Docker container shell → printenv credential leak → SSH as metalytics → GameOver(lay) CVE-2023-2640/CVE-2023-32629 OverlayFS LPE → root |
 
 → [Full writeup list](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups)
 
