@@ -23,11 +23,11 @@ Real labs, real output, real methodology — written to the standard of an actua
 
 | Room / Machine | Platform | Difficulty | Key Technique |
 |---|---|---|---|
-| [Usage](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Challenges/Web/Usage.md) | HackTheBox | Easy | Boolean-blind SQLi on /forget-password → bcrypt crack → CVE-2023-24249 Laravel Admin .jpg.php upload → reverse shell (dash) → .monitrc plaintext creds → credential reuse (xander) → 7zip @listfile symlink → root SSH key |
-| [Headless](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Challenges/Web/Headless.md) | HackTheBox | Easy | Blind XSS via User-Agent header → is_admin cookie exfiltration → OS command injection in date parameter → reverse shell (dvir) → sudo syscheck relative path hijack → /tmp/initdb.sh SUID bash root |
-| [Union](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Challenges/Web/Union.md) | HackTheBox | Medium | Manual UNION SQLi → MySQL FILE read → SSH unlock + credential reuse → X-Forwarded-For command injection → www-data sudo root |
-| [Trick](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Challenges/Web/Trick.md) | HackTheBox | Easy | DNS AXFR → SQLi FILE privilege → LFI SSH key extraction → fail2ban actionban SUID bash |
-| [Tabby](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Challenges/Web/Tabby.md) | HackTheBox | Easy | LFI → Tomcat Manager credential extraction → WAR reverse shell → CVE-2021-4034 PwnKit root |
+| [Usage](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Web-Challenges/Usage.md) | HackTheBox | Easy | Boolean-blind SQLi on /forget-password → bcrypt crack → CVE-2023-24249 Laravel Admin .jpg.php upload → reverse shell (dash) → .monitrc plaintext creds → credential reuse (xander) → 7zip @listfile symlink → root SSH key |
+| [Headless](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Web-Challenges/Headless.md) | HackTheBox | Easy | Blind XSS via User-Agent header → is_admin cookie exfiltration → OS command injection in date parameter → reverse shell (dvir) → sudo syscheck relative path hijack → /tmp/initdb.sh SUID bash root |
+| [Union](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Web-Challenges/Union.md) | HackTheBox | Medium | Manual UNION SQLi → MySQL FILE read → SSH unlock + credential reuse → X-Forwarded-For command injection → www-data sudo root |
+| [Trick](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Web-Challenges/Trick.md) | HackTheBox | Easy | DNS AXFR → SQLi FILE privilege → LFI SSH key extraction → fail2ban actionban SUID bash |
+| [Tabby](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups/blob/main/HTB-Web-Challenges/Tabby.md) | HackTheBox | Easy | LFI → Tomcat Manager credential extraction → WAR reverse shell → CVE-2021-4034 PwnKit root |
 
 → [Full writeup list](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups)
 
